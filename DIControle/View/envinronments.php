@@ -1,0 +1,30 @@
+<?php
+    $setores = [
+        'AGULHADOS',
+        'TUFTING',
+        'PORTARIA',
+        'AUTOMOTIVA',
+        'TESOURARIA',
+        'PSICOLOGIA',
+        'FUNILARIA',
+        'BALEIA',
+        'TEAR',
+        'REFEITORIO',
+        'ADMINISTRACAO',
+        'EXPEDICAO',
+        'ZAMBOM',
+        'INFORMATICA',
+        'DESPACHO DE TAPETES',
+        'TINTURARIA',
+        'DIRETORIA',
+        'ELETRICA',
+        'SHOWROOM',
+        'FIACAO',
+        'DEBRUM',
+        'BEJIMAC',
+        'AMBULATORIO',
+        'BENGIMAC',
+        'ARTOS',
+    ];
+    sort($setores);
+?>

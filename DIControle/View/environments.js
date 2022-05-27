@@ -1,0 +1,1 @@
+let globalEnvFront =  "http://192.168.3.212/DIControle/";
